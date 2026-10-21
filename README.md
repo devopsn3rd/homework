@@ -19,3 +19,9 @@ You can find a live version at the following url:
 [https://rdicidr.rderik.com](https://rdicidr.rderik.com)
 
 If you find this tool useful, you might enjoy reading my blog: [https://rderik.com](https://rderik.com)
+
+# CI Section
+Step 1
+Step 2
+Step 3
+
